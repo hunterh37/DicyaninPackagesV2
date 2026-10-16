@@ -7,6 +7,7 @@ Recent visionOS Swift packages from Dicyanin Labs. Older packages remain listed 
 | Package | Description |
 |---------|-------------|
 | [DicyaninParametricFit](https://github.com/hunterh37/DicyaninParametricFit) | Fits parametric primitives to scene mesh clusters and outputs a Codable ShapeGraph |
+| [DicyaninPerfProbe](https://github.com/hunterh37/DicyaninPerfProbe) | Headless frame-rate and hitch capture with baseline diffs for visionOS apps |
 | [DicyaninRoomWorlds](https://github.com/hunterh37/DicyaninRoomWorlds) | Scan a room, generate a themed 3D world fitted to it on device |
 | [DicyaninStageDirector](https://github.com/hunterh37/DicyaninStageDirector) | Route-based control surface for recording visionOS demo takes from a headless simulator |
 | [RealityHD](https://github.com/hunterh37/RealityHD) | High-detail RealityKit scenes, nature and props |
